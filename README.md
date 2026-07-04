@@ -65,7 +65,7 @@
 
 ### 1. 购买充值卡密
 
-先进入 GoPlus 充值入口，选择 ChatGPT Plus / Pro 对应套餐，按页面提示完成付款。付款完成后，订单页面会提供后续充值需要使用的卡密。
+先进入 [GoPlus](https://www.goplus.pro/) 充值入口，选择 ChatGPT Plus / Pro 对应套餐，按页面提示完成付款。付款完成后，订单页面会提供后续充值需要使用的卡密。
 
 **充值入口：** [https://www.goplus.pro/](https://www.goplus.pro/)
 
