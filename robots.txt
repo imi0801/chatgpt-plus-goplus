@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imi0801.github.io/chatgpt-plus-goplus/sitemap.xml

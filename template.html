@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESCRIPTION}}">
+<meta name="keywords" content="{{KEYWORDS}}">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="author" content="{{AUTHOR}}">
+<meta name="applicable-device" content="pc,mobile">
+<meta http-equiv="Cache-Control" content="no-transform">
+<link rel="canonical" href="{{URL}}">
+<link rel="alternate" hreflang="zh-CN" href="{{URL}}">
+<link rel="alternate" hreflang="x-default" href="{{URL}}">
+<link rel="sitemap" type="application/xml" href="{{ROOT}}sitemap.xml">
+<meta property="og:type" content="article">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:site_name" content="{{SITE_NAME}}">
+<meta property="og:title" content="{{TITLE}}">
+<meta property="og:description" content="{{DESCRIPTION}}">
+<meta property="og:url" content="{{URL}}">
+<meta property="og:image" content="{{OG_IMAGE}}">
+<meta property="article:modified_time" content="{{MODIFIED}}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{TITLE}}">
+<meta name="twitter:description" content="{{DESCRIPTION}}">
+<meta name="twitter:image" content="{{OG_IMAGE}}">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%A7%BE%3C/text%3E%3C/svg%3E">
+<script type="application/ld+json">{{JSONLD}}</script>
+<style>
+:root{--bg:#fff;--fg:#1f2328;--muted:#59636e;--border:#d1d9e0;--link:#0969da;--code:#f6f8fa;--tip:#1a7f37;--tipbg:#f0fff4;--warn:#9a6700;--warnbg:#fff8c5;--quote:#656d76;--accent:#4f46e5;--accent-fg:#fff;--bar:#111827;--bar-fg:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#0d1117;--fg:#e6edf3;--muted:#9198a1;--border:#30363d;--link:#4493f8;--code:#161b22;--tip:#3fb950;--tipbg:#12261e;--warn:#d29922;--warnbg:#272115;--quote:#9198a1;--accent:#6366f1;--bar:#161b22}}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-padding-top:56px}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.75 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC",sans-serif;word-break:break-word;padding-bottom:84px}
+main{max-width:860px;margin:0 auto;padding:16px 16px 48px}
+h1{font-size:1.65em;line-height:1.3;margin:.5em 0 .6em}
+h2{font-size:1.38em;margin:2em 0 .6em;padding-bottom:.3em;border-bottom:1px solid var(--border)}
+h3{font-size:1.15em;margin:1.6em 0 .5em}
+a{color:var(--link);text-decoration:none}a:hover{text-decoration:underline}
+p{margin:.8em 0}
+hr{border:0;border-top:1px solid var(--border);margin:2em 0}
+blockquote{margin:1em 0;padding:.2em 1em;border-left:4px solid var(--border);color:var(--quote)}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.9em;background:var(--code);padding:.15em .4em;border-radius:4px}
+pre{background:var(--code);padding:12px;border-radius:6px;overflow:auto}pre code{background:none;padding:0}
+img{max-width:100%;height:auto;border:1px solid var(--border);border-radius:6px;display:block;margin:.6em 0}
+.table-wrap{overflow-x:auto;margin:1em 0;-webkit-overflow-scrolling:touch}
+table{border-collapse:collapse;min-width:100%;font-size:.93em}
+th,td{border:1px solid var(--border);padding:7px 11px;text-align:left;vertical-align:top}
+th{background:var(--code);font-weight:600}
+ul,ol{padding-left:1.6em}li{margin:.25em 0}
+.site-nav{position:sticky;top:0;z-index:20;background:var(--bg);border-bottom:1px solid var(--border);margin:0 -16px 8px;padding:0 16px;overflow-x:auto;white-space:nowrap;-webkit-overflow-scrolling:touch}
+.site-nav a{display:inline-block;padding:12px 10px;font-size:.92em;color:var(--muted);border-bottom:2px solid transparent}
+.site-nav a[aria-current]{color:var(--fg);font-weight:600;border-bottom-color:var(--accent)}
+.site-head{font-size:.86em;color:var(--muted);margin:10px 0 0}
+.site-head a{color:var(--muted)}
+.alert{margin:1.2em 0;padding:1em 1.1em;border:1px solid var(--tip);border-left-width:5px;background:var(--tipbg);border-radius:8px}
+.alert .alert-title{margin:0 0 .3em;font-weight:700;color:var(--tip)}
+.alert.warning,.alert.caution,.alert.important{border-color:var(--warn);background:var(--warnbg)}
+.alert.warning .alert-title,.alert.caution .alert-title,.alert.important .alert-title{color:var(--warn)}
+.alert p{margin:.45em 0}
+.cta-wrap{margin:1.2em 0}
+.cta{display:inline-block;background:var(--accent);color:var(--accent-fg)!important;padding:12px 20px;border-radius:10px;font-weight:700;line-height:1.35;box-shadow:0 2px 8px rgba(79,70,229,.3);transition:transform .08s,filter .15s}
+.cta:hover{text-decoration:none;filter:brightness(1.08);transform:translateY(-1px)}
+.alert .cta{display:block;text-align:center;font-size:1.05em;margin:.6em 0}
+.sticky{position:fixed;left:0;right:0;bottom:0;z-index:30;background:var(--bar);color:var(--bar-fg);padding:10px 14px calc(10px + env(safe-area-inset-bottom));box-shadow:0 -4px 16px rgba(0,0,0,.18)}
+.sticky-in{max-width:860px;margin:0 auto;display:flex;align-items:center;gap:12px}
+.sticky-text{flex:1;font-size:.92em;line-height:1.35;min-width:0}
+.sticky .cta{padding:10px 16px;font-size:.95em;white-space:nowrap;box-shadow:none}
+.sticky-x{background:none;border:0;color:var(--bar-fg);opacity:.7;font-size:20px;line-height:1;padding:4px 6px;cursor:pointer}
+.sticky-x:hover{opacity:1}
+body.no-sticky{padding-bottom:24px}body.no-sticky .sticky{display:none}
+@media (max-width:520px){.sticky-text{font-size:.84em}.sticky .cta{padding:9px 12px;font-size:.9em}}
+.site-foot{margin-top:48px;padding-top:16px;border-top:1px solid var(--border);font-size:.88em;color:var(--muted)}
+</style>
+</head>
+<body>
+<main>
+<nav class="site-nav" aria-label="站内导航">{{NAV}}</nav>
+<p class="site-head"><a href="{{ROOT}}">{{SITE_NAME}}</a> · <a href="{{REPO_URL}}" target="_blank" rel="noopener">GitHub 仓库</a> · <time datetime="{{MODIFIED}}">更新于 {{MODIFIED}}</time></p>
+<article>
+<h1>{{H1}}</h1>
+{{CONTENT}}
+</article>
+<footer class="site-foot">
+  本页由仓库里的 Markdown 自动生成（<a href="{{REPO_URL}}" target="_blank" rel="noopener">查看源码</a>）；内容按 CC BY-NC-SA 4.0 许可。发现价格或流程变化，欢迎提 Issue 或 PR。
+</footer>
+</main>
+<div class="sticky" id="sticky" role="complementary">
+  <div class="sticky-in">
+    <div class="sticky-text">{{CTA}}</div>
+    <a class="cta" href="{{CTA_URL}}" target="_blank" rel="noopener">去开通 →</a>
+    <button class="sticky-x" type="button" aria-label="关闭" onclick="document.body.classList.add('no-sticky');try{sessionStorage.setItem('hideCta','1')}catch(e){}">×</button>
+  </div>
+</div>
+<script>try{if(sessionStorage.getItem('hideCta')==='1')document.body.classList.add('no-sticky')}catch(e){}</script>
+</body>
+</html>

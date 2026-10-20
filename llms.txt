@@ -1,0 +1,17 @@
+# ChatGPT Plus 开通教程
+
+> ChatGPT Plus 怎么开通？2026 年国内用户从零开通 ChatGPT Plus / Pro 的完整教程：开通条件、账号注册、电脑网页版与 iPhone 两种开通方式、没有海外信用卡怎么用支付宝 / 微信付款、开通后怎么确认生效、开通失败怎么办。不要密码，3 分钟到账。
+
+## 页面
+
+- [ChatGPT Plus 怎么开通？2026 国内开通教程：注册、付款、生效全流程（支付宝 / 微信）](https://imi0801.github.io/chatgpt-plus-goplus/): ChatGPT Plus 怎么开通？2026 年国内用户从零开通 ChatGPT Plus / Pro 的完整教程：开通条件、账号注册、电脑网页版与 iPhone 两种开通方式、没有海外信用卡怎么用支付宝 / 微信付款、开通后怎么确认生效、开通失败怎么办。不要密码，3 分钟到账。
+- [ChatGPT 怎么注册？2026 国内邮箱 / 手机号注册与开不了 Plus 的原因](https://imi0801.github.io/chatgpt-plus-goplus/register/): 2026 年国内怎么注册 ChatGPT 账号：QQ / 163 等国内邮箱能不能用、+86 手机号为什么通不过验证、用 Google 或 Apple 账号一键登录的区别，以及注册成功后「升级」按钮不出现、开不了 Plus 的原因和处理。
+- [电脑怎么开通 ChatGPT Plus？2026 网页版开通步骤（官网 vs 支付宝微信）](https://imi0801.github.io/chatgpt-plus-goplus/pc/): 在电脑（Windows / Mac）浏览器上开通 ChatGPT Plus 的两种方式：官网「升级」按钮走海外信用卡结算，国内用户用支付宝 / 微信扫码走代充。浏览器选择、插件设置、会话信息怎么复制、付款后怎么刷新确认，一步一步讲清。
+- [iPhone 怎么开通 ChatGPT Plus？2026 内购 vs Safari 支付宝微信开通](https://imi0801.github.io/chatgpt-plus-goplus/iphone/): iPhone 开通 ChatGPT Plus 的两种方式：App 内购需要美区等海外 Apple ID 和礼品卡，标价 $19.99 另算税费；国区 Apple ID 用 Safari 打开网页走代充，支付宝 / 微信付款，订阅绑定账号，App 刷新后自动显示 Plus。附步骤和常见卡点。
+- [ChatGPT Pro 怎么开通？2026 Pro 100 / 200 / 500 适合谁、步骤与验证](https://imi0801.github.io/chatgpt-plus-goplus/pro/): ChatGPT Pro 怎么开通？Pro 100 / 200 / 500 对应官方 $100 / $200 / $500，三档分别适合谁；国内用支付宝 / 微信开通 Pro 的步骤和 Plus 完全一样；已是 Plus 再开 Pro 会覆盖现有会员；开通后怎么验证 Pro 已生效。
+- [ChatGPT Plus 开通失败怎么办？升级按钮灰色、付款被拒、付了还是 Free](https://imi0801.github.io/chatgpt-plus-goplus/failed/): ChatGPT Plus 开通失败的 6 种情况逐条处理：升级按钮灰色或不显示、not available in your country、海外卡被拒或 3DS 失败、App Store 没有升级入口、付款后还是 Free、代充校验被拦（Team 工作区 / 欠费宽限期）。附对照表和换路径判断。
+
+## 来源
+
+- 仓库：https://github.com/imi0801/chatgpt-plus-goplus
+- 内容许可：CC BY-NC-SA 4.0
