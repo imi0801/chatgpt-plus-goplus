@@ -29,10 +29,10 @@ PUBLISHED = "2026-10-20"
 HOME = {
     "slug": "",
     "nav": "开通教程（总览）",
-    "title": "ChatGPT Plus 怎么开通？2026 国内开通教程：注册、付款、生效全流程（支付宝 / 微信）",
-    "description": "ChatGPT Plus 怎么开通？2026 年国内用户从零开通 ChatGPT Plus / Pro 的完整教程：开通条件、账号注册、电脑网页版与 iPhone 两种开通方式、没有海外信用卡怎么用支付宝 / 微信付款、开通后怎么确认生效、开通失败怎么办。不要密码，3 分钟到账。",
+    "title": "ChatGPT Plus 怎么开通？2026 国内开通教程（支付宝 / 微信）",
+    "description": "ChatGPT Plus 怎么开通？2026 国内三条路线：官网信用卡、App Store 内购、支付宝微信开通，附 4 步截图、会话信息安全说明、续费规则与分阶段失败排查。",
     "keywords": "ChatGPT Plus 怎么开通, ChatGPT Plus 开通教程, ChatGPT 开通, ChatGPT Plus 开通步骤, ChatGPT Plus 国内开通, ChatGPT 会员 开通, ChatGPT Plus 订阅 教程, ChatGPT Pro 开通, ChatGPT Plus 开通条件, ChatGPT Plus 支付宝, ChatGPT Plus 微信",
-    "cta": "没有海外卡也能开通：支付宝 / 微信 3 分钟开通 ChatGPT Plus / Pro · 不要密码",
+    "cta": "没有海外卡：支付宝 / 微信开通 ChatGPT Plus / Pro，不要密码，失败原路退款",
     "cta_url": "https://okai66.com/",
 }
 
