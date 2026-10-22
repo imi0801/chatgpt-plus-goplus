@@ -111,6 +111,7 @@ OpenAI 不是对每个新账号都要求手机验证，但一旦要求，国内 
 ## 相关页面
 
 - [ChatGPT Plus 怎么开通？2026 国内开通教程（总览）](../)
+- [ChatGPT 怎么用？注册后的新手入门](../how-to-use/)
 - [电脑网页版开通 ChatGPT Plus 步骤](../pc/)
 - [iPhone 怎么开通 ChatGPT Plus](../iphone/)
 - [ChatGPT Plus 开通失败怎么办](../failed/)

@@ -159,6 +159,7 @@
 ## 相关页面
 
 - [ChatGPT 账号注册 2026：国内邮箱 / 手机号能不能注册](register/)
+- [ChatGPT 怎么用？新手入门：注册登录、功能、免费版与 Plus 区别](how-to-use/)
 - [电脑网页版开通 ChatGPT Plus 步骤](pc/)
 - [iPhone 怎么开通 ChatGPT Plus](iphone/)
 - [ChatGPT Pro 怎么开通](pro/)

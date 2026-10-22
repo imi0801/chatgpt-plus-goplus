@@ -184,7 +184,7 @@ def main():
             assert meta.get(k), f"{path}: missing front matter `{k}`"
         pages.append((meta, body))
     # Navigation order is set here; glob order is alphabetical.
-    order = ["", "register", "pc", "iphone", "pro", "failed"]
+    order = ["", "register", "how-to-use", "pc", "iphone", "pro", "failed"]
     pages.sort(key=lambda p: order.index(p[0]["slug"]) if p[0]["slug"] in order else 99)
     metas = [m for m, _ in pages]
 
